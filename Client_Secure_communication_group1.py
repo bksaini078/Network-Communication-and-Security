@@ -1,19 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-#Authors
-# Jan Bings (216200708) 
-# Bhupender Kumar Saini (219100887) 
-# Ravineesh Goud (219100836) 
-# Marvin Schwenkmezger (216201620) 
-
-
-# In[1]:
-
-
 import time
 import datetime
 import random
