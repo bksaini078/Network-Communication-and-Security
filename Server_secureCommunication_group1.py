@@ -1,19 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-# Author
-# Bhupender Kumar Saini (219 100 887)
-# Jan Bings (216 200 708) 
-# Ravineesh Goud (219 100 836) 
-# Marvin Schwenkmezger (216 201 620) 
-
-
-# In[7]:
-
-
 import socket
 import json
 import ipaddress as ip
